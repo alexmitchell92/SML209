@@ -7,13 +7,15 @@
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong> Visit my QMplus Hub Page!</strong></a> 
 <hr>
   
-<strong> To do list</strong>
+<h1>To do list</h1>
 <ul><li>Write Obituary for Modern Political Thought</li> <li>Buy washing basket</li> <li>Read The Wretched of the Earth by Franz Fanon</li>
 </ul>
 
  
 <hr>
-<ol><strong> Three of my favourite things </strong></ol>
+<h1>Three of my favourite things</h1>
+<ol>
+</ol>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <hr>

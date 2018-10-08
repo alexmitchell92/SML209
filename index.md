@@ -12,15 +12,16 @@
 <h1>To do list</h1>
 <p>
 <ul><li>Write Obituary for Modern Political Thought</li> <li>Buy washing basket</li> <li>Read The Wretched of the Earth by Franz Fanon</li>
-</p>
 </ul>
+</p>
 
  
 <hr>
 <h1>Three of my favourite things</h1>
 <p>
 <ol><li>Speaking Spanish</li><li>Playing videogames</li><li>Travelling - take a look at the below video of my 2016 trip to Colombia!</li>
+</p>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</p>
+
 <hr>

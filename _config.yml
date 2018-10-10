@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: Mitchting's Language Site
 description: Test
+github:
+  page2: page2.html
+  page3: page3.html

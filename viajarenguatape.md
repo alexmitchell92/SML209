@@ -2,7 +2,7 @@
 <hr>
 <sup>15th October 2018</sup>
 <img src="https://www.travellifex.com/wp-content/uploads/2016/04/Best-Things-To-Do-In-Guatape.jpg" alt="El Peñol, Guatapé, Colombia">
-<p lang="es">En está página voy a hablar un poco de unos de los sitios más bonitos que he visitado en mi vida, el hermoso Guatapé en Colombia.</p>
+<p lang="es">En está página voy a hablar un poco de unos de los sitios más bonitos que he visitado en mi vida, el hermoso Guatapé en Colombia. El pueblo está situado en el departamento de antioquia, y se encuentra unas 2 horas y media desde Medellín.</p>
 <hr>
 <dl>
 <dt>Synonym</dt>

@@ -1,4 +1,4 @@
-<h1 style="colour:red;">HTML	Part	2	Homework</h1>
+<h1 style="colour:#f43a3a;">HTML	Part	2	Homework</h1>
 <hr>
 <sup>15 de Octubre 2018</sup>
 

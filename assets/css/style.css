@@ -1,0 +1,15 @@
+---
+---
+@import "{{ site.theme }}";
+/* image text wrap CSS */
+
+.imgLeft {
+  float:left;
+  margin: 0 10px 10px;
+ }
+ 
+ .clearLeft {
+  clear:left;
+ }
+ 
+ /* end image text wrap CSS */

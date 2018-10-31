@@ -6,7 +6,7 @@
 <img src="https://i.ytimg.com/vi/EFVp2ZMFEH4/maxresdefault.jpg" alt="Chinese Temple">
 </a>
 
-<p>
+<p>Write something about China and the Chinese language in general.
 </p>
 <hr>
 

@@ -1,4 +1,4 @@
-<h1>Spain</h2>
+<h1>Spain</h1>
 
 <hr>
 

@@ -1,6 +1,8 @@
 <h1><u>¡Welcome to Travel with Spanish!</u></h1>
 
-<p>My name is Alex Mitchell. I'm 25 years old and was born in Doncaster, but grew up and have spent most of my life in Leicestershire. Before moving to London 18 months ago to study a BA in Hispanic Studies and Politics, I spent 12 months living in Spain and Colombia.
+<p>
+  Travel with Spanish aim's to be...
+  </p>
 <br>
 <br>
 <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong> Visit my QMplus Hub Page!</strong></a>

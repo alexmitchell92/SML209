@@ -48,7 +48,7 @@
 </table>
 <hr>
 <p>
-  <a style="float:left;" href="practice.html">Go to Exercise 1</a>
+  <a style="float:left;" href="practice.html" class="btn2">Go to Exercise 1</a>
   </p>
   <div style="clear:both;"> </div>
   <hr>

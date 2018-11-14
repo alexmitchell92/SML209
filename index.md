@@ -7,12 +7,21 @@
 <br>
 
 <p>
-  I have documented the process of building this website on the following <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong></a>, please take a look if you're interested!</a>
+  I have documented the process of building this website on the following <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong></a>, please take a look if you're interested!
   </p>
 
 <hr>
   
-<h1>To do list</h1>
+<h1>¡Travel with Spanish! aims:</h1>
+
+<p>
+  <ul>
+    <li>Provide you with genuine and authentic information and content from both Spain and South America.</li>
+    <li>Teach lessons aimed at travellers bound for Spanish speaking countries.</li>
+    <li>More to come...</li>
+  </ul>
+</p>
+
 <p>
 <ul><li>Write Obituary for Modern Political Thought</li> <li>Buy washing basket</li> <li>Read The Wretched of the Earth by Franz Fanon</li>
 </ul>

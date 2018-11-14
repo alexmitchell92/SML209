@@ -3,9 +3,13 @@
 <p>
   ¡Travel with Spanish! is a one stop information source aimed at helping English speakers practice the Spanish language while travelling through both language content and information from the Spanish and Latin American world!
   </p>
+
 <br>
-<p>I have documented the process of building this website on the following <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong></a>, please take a look if you're interested!</a>
-</p>
+
+<p>
+  I have documented the process of building this website on the following <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong></a>, please take a look if you're interested!</a>
+  </p>
+
 <hr>
   
 <h1>To do list</h1>

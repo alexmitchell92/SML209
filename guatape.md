@@ -49,10 +49,6 @@
 <hr>
 <p>
   <a href="practice.html" class="btnflt-l">Go to Exercise 1</a>
-  </p>
-  <div style="clear:both;"> </div>
-  
-<p>
   <a href="practice.html" class="btnflt-r">Test</a>
   </p>
   <div style="clear:both;"> </div>

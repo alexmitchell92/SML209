@@ -5,7 +5,7 @@
   </p>
 <br>
 <br>
-<a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong> Visit my QMplus Hub Page!</strong></a>
+<p>I have documented the process of building this website on the following <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong>, please take a look if you're interested!</a>
 </p>
 <hr>
   

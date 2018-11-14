@@ -1,7 +1,6 @@
 theme: jekyll-theme-cayman
 
 title: ¡Travel with Spanish!
-description: Test
 github:
   spanish: spanish.html
   guatape: guatape.html

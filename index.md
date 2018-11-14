@@ -21,12 +21,6 @@
     <li>More to come...</li>
   </ul>
 </p>
-
-<p>
-<ul><li>Write Obituary for Modern Political Thought</li> <li>Buy washing basket</li> <li>Read The Wretched of the Earth by Franz Fanon</li>
-</ul>
-</p>
-
  
 <hr>
 <h1>Three of my favourite things</h1>

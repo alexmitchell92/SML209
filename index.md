@@ -1,7 +1,7 @@
 <h1><u>¡Welcome to Travel with Spanish!</u></h1>
 
 <p>
-  Travel with Spanish aim's to be...
+  ¡Travel with Spanish! is a one stop information source aimed at helping English speakers practice the Spanish language while travelling through both language content and information from the Spanish and Latin American world!
   </p>
 <br>
 <br>

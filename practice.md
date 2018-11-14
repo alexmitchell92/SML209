@@ -1,5 +1,5 @@
 <p>
-  <a style="float:left;" href="guatape.html">Back</a>
+  <a style="float:left;" href="guatape.html" class="btn2">Back</a>
   </p>
   <div style="clear:both;"> </div>
   <hr>

@@ -1,7 +1,5 @@
-<h1><u>Welcome</u></h1>
-<p>This is my page for SML209</p>
-
-<h1>About me</h1>
+<h1><u>¡Bienvenidos!</u></h1>
+<h2>¡Welcome to ¡Travel with Spanish!</h2>
 <p>My name is Alex Mitchell. I'm 25 years old and was born in Doncaster, but grew up and have spent most of my life in Leicestershire. Before moving to London 18 months ago to study a BA in Hispanic Studies and Politics, I spent 12 months living in Spain and Colombia.
 <br>
 <br>

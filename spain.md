@@ -17,3 +17,12 @@
     <li>Population: 46.57 million</li>
   </ul>
 </p>
+
+<ol type="A">
+  <li style="font-weight: bold;">
+    <p><span style="font-weight: normal;">Text</span></p>
+  </li>
+  <li style="font-weight: bold;">
+    <p><span style="font-weight: normal;">More text</span></p>
+  </li>
+</ol>

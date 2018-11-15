@@ -23,7 +23,7 @@
 </p>
  
 <hr>
-<h1>Three of my favourite things</h1>
+<h2>Three of my favourite things</h2>
 <p>
 <ol><li>Speaking Spanish</li><li>Playing videogames</li><li>Travelling - take a look at the below video of my 2016 trip to Colombia!</li>
 </ol>

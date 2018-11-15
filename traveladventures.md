@@ -1,4 +1,4 @@
-<h1>Travel Adevntures: Guatape, Colombia</h1>
+<h1>Travel Adventures: Guatape, Colombia</h1>
 <hr>
 <sup>15 de Octubre 2018</sup>
 

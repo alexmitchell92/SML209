@@ -12,7 +12,7 @@
 
 <hr>
   
-<h1>¡Travel with Spanish! aims:</h1>
+<h2>¡Travel with Spanish! aims:</h2>
 
 <p>
   <ul>

@@ -9,7 +9,9 @@
   </p>
  
 <hr>
+
 <h2>Facts</h2>
+
 <p>
   <ul>
     <ul style="font-weight: bold;">
@@ -19,3 +21,5 @@
       <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez (PSOE Party)</span></li>
    </ul>
 </p>
+
+<hr>

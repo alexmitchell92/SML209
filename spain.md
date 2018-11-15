@@ -11,7 +11,6 @@
 <hr>
 
 <h2>Facts</h2>
-
 <ul>
   <ul style="font-weight: bold;">
     <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>
@@ -19,6 +18,5 @@
     <li>Languages:<span style="font-weight: normal;"> Spanish, Catalan, Galician, Basque, Occitan</span></li>
     <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez (PSOE Party)</span></li>
 </ul>
-
-
+<br>
 <hr>

@@ -20,8 +20,7 @@
     <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez (PSOE Party)</span></li>
 </ul>
 </p>
-    
-<br>
+
 <hr>
 
 <p>

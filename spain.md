@@ -14,7 +14,9 @@
  <p>
   <ul>
     <ul style="font-weight: bold;">
-    <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>
-    <li>Population:<span style="font-weight: normal;"> 46.57 million</span></li>
+      <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>
+      <li>Population:<span style="font-weight: normal;"> 46.57 million</span></li>
+      <li>Languages:<span style="font-weight: normal;"> Spanish, Catalan, Galician, Basque, Occitan</span></li>
+      <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez</span></li>
   </ul>
 </p>

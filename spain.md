@@ -18,7 +18,7 @@
     <li>Population:<span style="font-weight: normal;"> 46.57 million</span></li>
     <li>Languages:<span style="font-weight: normal;"> Spanish, Catalan, Galician, Basque, Occitan</span></li>
     <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez (PSOE Party)</span></li>
-  </ul>
+</ul>
 </p>
 
 <p>

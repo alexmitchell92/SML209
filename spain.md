@@ -3,3 +3,19 @@
 <hr>
 
 <img src="https://dynaimage.cdn.cnn.com/cnn/q_auto,w_1903,c_fill,g_auto,h_1070,ar_16:9/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F170706113411-spain.jpg" alt="Barcelona, Spain">
+
+<p>
+  Spain is one of the most culturally rich and exciting countries in Europe, no wonder it is one of the most popular destination for European holidaymakers.
+  </p>
+ 
+<hr>
+
+ <h2>Facts</h2>
+ <p>
+  <ul>
+    <li>Capital city: Madrid</li>
+    <li>Population: 46.57 million</li>
+    <li>Teach lessons aimed at travellers bound for Spanish speaking countries.</li>
+    <li>More to come...</li>
+  </ul>
+</p>

@@ -15,8 +15,7 @@
   <ul>
     <ul style="font-weight: bold;">
     <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>
-    <li>Capital city: Madrid</li>
-    <li>Population: 46.57 million</li>
+    <li>Population:<span style="font-weight: normal;"> 46.57 million</span></li>
   </ul>
 </p>
 

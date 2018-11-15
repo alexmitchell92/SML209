@@ -15,7 +15,5 @@
   <ul>
     <li>Capital city: Madrid</li>
     <li>Population: 46.57 million</li>
-    <li>Teach lessons aimed at travellers bound for Spanish speaking countries.</li>
-    <li>More to come...</li>
   </ul>
 </p>

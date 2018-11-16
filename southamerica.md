@@ -2,6 +2,7 @@
 
 <hr>
 
+<a href="http://hraf.yale.edu/teach-ehraf/native-peoples-of-south-america-a-comparative-ethnography/" title="View Image Soure">
 <img src="http://hraf.yale.edu/wp-content/uploads/2017/07/te-1.8-thumb.jpg" alt="Barcelona, Spain">
 
 <p>

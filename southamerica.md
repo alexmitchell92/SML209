@@ -7,8 +7,13 @@
 <hr>
 
 <h2>Facts</h2>
-
 <p>
+  <i>
+    As you are aware, South America is not a single country. Rather, it is comprised of 12 countries that mainly speak either Spanish or Brazilian. Therefore this page will try to address South America as a whole, rather than just a single country like page dedicated to Spain.
+  </i>
+  </p>
+
+
   <ul style="font-weight: bold;">
     <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>
     <li>Population:<span style="font-weight: normal;"> 46.57 million</span></li>

@@ -32,11 +32,7 @@
 <p>This page is comprised of a set of mini classes/lessons focused on helping you to be able to travel using the Spanish language!
   </p>
 
-<h3>Spain</h3>
-<p>
-  </p>
-
-<h3>South America</h3>
+<h3>Spain/South America</h3>
 <p>
   </p>
 

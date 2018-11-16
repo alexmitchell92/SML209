@@ -27,7 +27,7 @@
 <h2>A little about the different pages on this site</h2>
 
 <h3>Learn Spanish</h3>
-<p>
+<p>This page is comprised of a set of mini classes/lessons focused on helping you to be able to travel using the Spanish language!
   </p>
 
 <h3>Spain</h3>

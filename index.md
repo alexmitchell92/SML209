@@ -1,3 +1,7 @@
+<head>
+  <meta charset="UTF-8">
+  </head>
+
 <h1>Welcome to Travel with Spanish!</h1>
 
 <p>

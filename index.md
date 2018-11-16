@@ -10,7 +10,7 @@
 
 <br>
 
-<p style="font-size:500%;">
+<p style="font-size:50%;">
   If you are interested in the development of this website, please free to follow my progress by taking a look at my <a href="https://hub.qmplus.qmul.ac.uk/view/view.php?t=4PMb3Y5QLKh7enARmxdF"><strong>QMPlus Hub Page</strong></a>!
   </p>
 

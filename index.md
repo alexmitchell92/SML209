@@ -43,7 +43,7 @@
   </p>
 
 <h3>Travel Adventures</h3>
-<p>A personal account of a travelling experience I had when travelling in Colombia, South America! <strong>CAUTION:</strong> Written entirely in Spanish! 
+<p>A personal account of a travelling experience I had when travelling in Colombia, South America! <strong>CAUTION:</strong> Written entirely in Spanish! 😀
   </p>
 
 <h3>Useful Resources/Learning Materials</h3>

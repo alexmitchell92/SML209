@@ -27,11 +27,21 @@
 <h2>A little about the different pages on this site</h2>
 
 <h3>Learn Spanish</h3>
+<p>
+  </p>
 
 <h3>Spain</h3>
+<p>
+  </p>
 
 <h3>South America</h3>
+<p>
+  </p>
 
 <h3>Travel Adventures</h3>
+<p>
+  </p>
 
 <h3>Useful Resources/Learning Materials</h3>
+<p>
+  </p>

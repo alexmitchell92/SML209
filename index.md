@@ -22,4 +22,16 @@
   </ul>
 </p>
  
+<hr>
 
+<h2>A little about the different pages on this site</h2>
+
+<h3>Learn Spanish</h3>
+
+<h3>Spain</h3>
+
+<h3>South America</h3>
+
+<h3>Travel Adventures</h3>
+
+<h3>Useful Resources/Learning Materials</h3>

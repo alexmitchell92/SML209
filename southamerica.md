@@ -20,8 +20,7 @@
   <li>Largest cities:<span style="font-weight: normal;"> Sao Paolo, Brazil, 21.2 Million; Buenos Aires, Argentina, 13.5 Million; Lima, Perú 12.1 Million; Bogotá, Colombia 10.2 Million; Santiago, Chile, 7.2 Million.</span></li>
   <li>Population:<span style="font-weight: normal;"> 422.5 Million</span></li>
   <li>Languages:<span style="font-weight: normal;"> The majority of South Americans either speak Spanish or Portuguese, however English, French and Dutch are still spoken among other indigenous languages.</span></li>
-  <li>Head of state:<span style="font-weight: normal;"> Pedro Sánchez (PSOE Party)</span></li>
-  <li>Famous for:<span style="font-weight: normal;"> The Amazon rainforest, Machu Picchu (Perú), </span></li>
+  <li>Famous for:<span style="font-weight: normal;"> The Amazon rainforest, Machu Picchu (Perú), Dance: Cha-cha-cha; Rumba; Samba,  </span></li>
 </ul>
 
 

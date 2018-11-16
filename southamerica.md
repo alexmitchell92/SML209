@@ -4,15 +4,15 @@
 
 <img src="http://hraf.yale.edu/wp-content/uploads/2017/07/te-1.8-thumb.jpg" alt="Barcelona, Spain">
 
-<hr>
-
-<h2>Facts</h2>
 <p>
   <i>
     As you may well already be aware, South America is not a single country. Rather, it is comprised of 12 countries that mainly speak either Spanish or Portuguese (Brazil). Therefore this page will try to address South America as a whole, rather than just a single country like page dedicated to Spain.
   </i>
   </p>
 
+<hr>
+
+<h2>Facts</h2>
 
 <ul style="font-weight: bold;">
   <li>Capital city:<span style="font-weight: normal;"> Madrid</span></li>

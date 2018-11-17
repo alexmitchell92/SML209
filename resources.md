@@ -7,7 +7,8 @@
 <h2>Movies/Series</h2>
 
 <ul style="font-weight: bold;">
-  <li><a href="https://www.imdb.com/title/tt6468322/">La casa de Papel</a><br><span style="front-weight: normal;">Without giving too much away this is a fantastic recent Spanish series that follows a band of criminals that run a heist on Spain's equivalent of the royal mint.</span></li>
+  <li><a href="https://www.imdb.com/title/tt6468322/">La casa de Papel</a><br><span style="font-weight: normal;">Without giving too much away this is a fantastic recent Spanish series that follows a band of criminals that run a heist on Spain's equivalent of the royal mint.</span></li>
+  <li><a href="https://www.imdb.com/title/tt5674718/">Las chicas del cable</a><br><span style="font-weight: normal;">Set in the 1920s, this series is based around the lives of 4 girls working as call operators at a telecommunications company. Apart from fantastic drama, the series is a great insight into the social and cultural norms in Spain at that time.</span></li>
   </ul>
   
 

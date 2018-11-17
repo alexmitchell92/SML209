@@ -4,6 +4,10 @@
 
 <h2>Websites</h2>
 
+<ul style="font-weight: bold;">
+  <li><a href="https://www.reddit.com/r/learnspanish/">Learn Spanish subreddit</a><br><span style="font-weight: normal;">In case you don't know, a subreddit is a forum dedicated to a specific topic on the website Reddit. Essentially, this subreddit can be seen as the wikipedia of Spanish language learning. It contains a huge amount of links to different resources and is also an excellent place for learners of the language to discuss anything related to their experience learning the language.</span></li>
+  </ul>
+
 <h2>Movies/Series</h2>
 
 <ul style="font-weight: bold;">

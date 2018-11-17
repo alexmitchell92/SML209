@@ -8,6 +8,7 @@
 
 <ul style="font-weight: bold;">
   <li><a href="https://www.imdb.com/title/tt6468322/">La casa de Papel</a><br><span style="front-weight: normal;">Without giving too much away this is a fantastic recent Spanish series that follows a band of criminals that run a heist on Spain's equivalent of the royal mint.</span></li>
+  </ul>
   
 
 <h2>YouTube Channels</h2>

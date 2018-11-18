@@ -31,8 +31,7 @@
 <h2>Music</h2>
 
 <ul style="font-weight: bold;">
-  <li><a href="https://en.wikipedia.org/wiki/ChocQuibTown">ChocQuibTown</a><br><span style="font-weight" normal;">A Colombian hip-hop group from the department of Chocó. The group mixes hip-hop with more traditional Colombian genres such as salsa, Latin jazz, and coastal rhythms, utilizing instruments such as congas, timbales, bongos, and trumpets. The song <a href="https://www.youtube.com/watch?v=yMS4J6Gp6e4">'De Donde Vengo Yo'</a>, or in English 'Where I come from' is an excellent example that fully encapusulates their style.</span></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jesse_%26_Joy">Jesse & Joy</a><br><span style="font-weight" normal;">A Mexican pop duo formed of brother and sister. <a href="https://www.youtube.com/watch?v=P2hM9CLAMu4">¡Corre!</a> is a great song centering around post break up feelings and really highlights Joy's vocal range.</span></li>
-  
+    <li><a href="https://en.wikipedia.org/wiki/ChocQuibTown">ChocQuibTown</a><br><span style="font-weight: normal;">A Colombian hip-hop group from the department of Chocó. The group mixes hip-hop with more traditional Colombian genres such as salsa, Latin jazz, and coastal rhythms, utilizing instruments such as congas, timbales, bongos, and trumpets. The song <a href="https://www.youtube.com/watch?v=yMS4J6Gp6e4">'De Donde Vengo Yo'</a>, or in English 'Where I come from' is an excellent example that fully encapusulates their style.</span></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jesse_%26_Joy">Jesse & Joy</a><br><span style="font-weight: normal;">A Mexican pop duo formed of brother and sister. <a href="https://www.youtube.com/watch?v=P2hM9CLAMu4">¡Corre!</a> is a great song centering around post break up feelings and really highlights Joy's vocal range.</span></li>
 
 </ul>

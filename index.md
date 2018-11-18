@@ -40,6 +40,6 @@
 <p>A personal account of a fantastic experience while I was travelling in Colombia, South America! <strong>CAUTION:</strong> Written entirely in Spanish! 😀
   </p>
 
-<h3>Useful Resources/Learning Materials</h3>
+<h3><a href="{{ site.github.resources }}">Useful Resources/Learning Materials</a></h3>
 <p>This page is a list of genuine reources that helped me in my own Spanish language journey. I have split these into 4 sections: Websites; Movies/Series; Youtube Channels & Music.
   </p>

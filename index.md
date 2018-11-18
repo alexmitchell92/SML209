@@ -32,7 +32,7 @@
 <p>This page is comprised of a set of mini classes/lessons focused on helping you to be able to travel using the Spanish language!
   </p>
 
-<h3><<a href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
+<h3><a href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
 <p>
   </p>
 

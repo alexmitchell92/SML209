@@ -33,7 +33,7 @@
   </p>
 
 <h3><a href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
-<p>
+<p>These pages are dedicated to Spain and South America as a continent, providing interesting facts and information about both and also offer tips on how one can work and travel in both!
   </p>
 
 <h3><a href="{{ site.github.traveladventures }}">Travel Adventures</a></h3>

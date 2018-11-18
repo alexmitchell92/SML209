@@ -41,5 +41,5 @@
   </p>
 
 <h3>Useful Resources/Learning Materials</h3>
-<p>
+<p>This page is a list of genuine reources that helped me in my own Spanish language journey. I have split these into 4 sections: Websites; Movies/Series; Youtube Channels & Music.
   </p>

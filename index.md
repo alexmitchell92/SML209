@@ -28,15 +28,15 @@
 
 <h2>A little about the different pages on this site</h2>
 
-<h3>Learn Spanish</h3>
+<h3><a href="{{ site.github.learnspanish }}">Learn Spanish</a></h3>
 <p>This page is comprised of a set of mini classes/lessons focused on helping you to be able to travel using the Spanish language!
   </p>
 
-<h3>Spain/South America</h3>
+<h3><<a href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
 <p>
   </p>
 
-<h3>Travel Adventures</h3>
+<h3><a href="{{ site.github.traveladventures }}">Travel Adventures</a></h3>
 <p>A personal account of a fantastic experience while I was travelling in Colombia, South America! <strong>CAUTION:</strong> Written entirely in Spanish! 😀
   </p>
 

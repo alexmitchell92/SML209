@@ -10,7 +10,7 @@
 ¡Que vistas más hermosas!</p>
 <hr>
 
-<h2>Images to be used in the text</h2>
+<h2>Images to be used later in the text</h2>
 <img src="/images/20170701_212422.jpg" />
 <img src="/images/20170701_220029.jpg" />
 <img src="/images/Guy rapping in bus.PNG" /> 

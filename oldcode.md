@@ -8,3 +8,53 @@
 </p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <hr>
+
+
+<h2>Definiciones de unos verbos para viajar</h2>
+<dl>
+<dt>Visitar</dt>
+<dd>Ir a ver a una persona al lugar en que vive o trabaja, generalmente como cortesía, atención, amistad, etc., o para tratar algún asunto.</dd>
+<dt>Subir</dt>
+<dd>Ir de un lugar a otro más alto.</dd>
+<dt>Volar</dt>
+<dd>Moverse por el aire usando alas o un medio artificial.</dd>
+</dl>
+<hr>
+<h2>Cómo se conjuga estos verbos</h2>
+<table>
+<tr>
+<th>Verbo</th>
+<th>Conjugación pasado simple</th>
+<th>Conjugación futuro simple</th>
+<th>Ejemplo</th>
+</tr>
+<tr>
+<td>Visitar</td>
+<td>Visité</td>
+<td>Visitaré</td>
+<td>¡Este verano visitaré el peñón en Guatapé!</td>
+</tr>
+<tr>
+<td>Subir</td>
+<td>Subí</td>
+<td>Subiré</td>
+<td>Cuando yo estuvé en Guatapé, subí el gran peñón y era muy dificíl</td>
+</tr>
+<tr>
+<td>Volar</td>
+<td>Volé</td>
+<td>Volaré</td>
+<td>Si quieres visitar a Colombia, hay que volar muchas horas en avión desde Inglaterra</td>
+</tr>
+</table>
+<hr>
+<p>
+  <a href="practice.html" class="btnflt-l">Go to Exercise 1</a>
+  <a href="practice.html" class="btnflt-r">Test</a>
+  </p>
+  <div style="clear:both;"> </div>
+  
+<hr>
+<iframe src="https://h5p.org/h5p/embed/356451" width="1090" height="202" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<hr>
+

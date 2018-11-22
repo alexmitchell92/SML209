@@ -2,7 +2,7 @@
 
 <hr>
 
-<p>
+<p><i>The following set of exercises are focused on useful phrases that can be used while travelling.</i>
   </p>
   
 <hr>

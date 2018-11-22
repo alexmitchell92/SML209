@@ -1,8 +1,8 @@
 <h1>Learn Spanish</h1>
 
-
-
 <hr>
+
+<h2>TYPE OF ACTIVITY: Vocabulary</h2>
 
 <hr>
 

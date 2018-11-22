@@ -10,7 +10,7 @@
 <hr>
 
 <p>
-  <a href="learnspanish.html" class="btnflt-r">Previous exercise</a>
+  <a href="learnspanish.html" class="btnflt-l">Previous exercise</a>
   </p>
   <div style="clear:both;"> </div>
 

@@ -1,7 +1,3 @@
-<h1>Learn Spanish</h1>
-
-<hr>
-
 <h2>Flashcards: Vocabulary</h2>
 
 <p>Explain what to do on flashcard activity.

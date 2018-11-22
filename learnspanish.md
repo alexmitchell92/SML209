@@ -3,7 +3,7 @@
   
 <hr>
 
-<h2>Flashcards: Useful phrases</h2>
+<h2>Dialogue cards: Useful phrases</h2>
 
 <p>
   Use the images and audio clips on the following 6 flashcards to try and guess the meaning of the phrase! Click the 'Turn' button to find out the English translation! You will be quizzed on these and more in the final exercise!

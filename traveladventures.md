@@ -1,5 +1,3 @@
-<h1>Travel Adventures: Guatape, Colombia</h1>
-<hr>
 <sup>15 de Octubre 2018</sup>
 
 <a href="https://www.travellifex.com/top-things-to-do-in-guatape-colombia/" title="View Image Soure">

@@ -1,4 +1,4 @@
-<h2>ACTIVITY: Vocabulary</h2>
+<h2>Sentance formation: Fill in the blanks</h2>
 
 <p>Explain what to do in the activity.
   </p>

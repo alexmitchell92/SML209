@@ -1,6 +1,6 @@
 <sup>15 de Octubre 2018</sup>
 
-<a href="https://www.travellifex.com/top-things-to-do-in-guatape-colombia/" title="View Image Soure">
+<a href="https://www.travellifex.com/top-things-to-do-in-guatape-colombia/" title="View Image Soure" target="_blank">
 <img src="https://www.travellifex.com/wp-content/uploads/2016/04/Best-Things-To-Do-In-Guatape.jpg" alt="El Peñol, Guatapé, Colombia">
 </a>
 

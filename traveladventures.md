@@ -8,9 +8,3 @@
 ¡Que vistas más hermosas!</p>
 <hr>
 
-<h2>Images to be used later in the text</h2>
-<img src="images/20170701_212422.jpg" />
-<img src="images/20170701_220029.jpg" />
-<img src="images/Guy rapping in bus.PNG" /> 
-<img src="https://github.com/alexmitchell92/SML209/blob/master/images/Guy%20rapping%20in%20bus.PNG">
-<img src="images/Guy%20rapping%20in%20bus.PNG">

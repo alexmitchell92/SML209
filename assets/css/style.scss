@@ -58,12 +58,20 @@
     background-image: linear-gradient(120deg, #1f1f2e, #d1d1e0);
 }
 
-.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+.main-content h1 {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
     color: #48486a;
     font-family: 'Lobster', cursive;
+}
+
+.main-content h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  color: #5d5d89;
+  font-family: 'Lobster', cursive;
 }
 
 .btn {

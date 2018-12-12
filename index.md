@@ -32,14 +32,14 @@
 <p>This page is comprised of a set of mini classes/lessons focused on helping you to be able to travel using the Spanish language!
   </p>
 
-<h3><a href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
+<h3><a class="h3-link" href="{{ site.github.spain }}">Spain</a>/<a href="{{ site.github.southamerica }}">South America</a></h3>
 <p>These pages are dedicated to Spain and South America as a continent, providing interesting facts and information about both and also offer tips on how one can work and travel in both!
   </p>
 
-<h3><a href="{{ site.github.traveladventures }}">Travel Adventures</a></h3>
+<h3><a class="h3-link" href="{{ site.github.traveladventures }}">Travel Adventures</a></h3>
 <p>A personal account of a fantastic experience while I was travelling in Colombia, South America! <strong>CAUTION:</strong> Written entirely in Spanish! 😀
   </p>
 
-<h3><a href="{{ site.github.resources }}">Useful Resources/Learning Materials</a></h3>
+<h3><a class="h3-link" href="{{ site.github.resources }}">Useful Resources/Learning Materials</a></h3>
 <p>This page is a list of genuine reources that helped me in my own Spanish language journey. I have split these into 4 sections: Websites; Movies/Series; Youtube Channels & Music.
   </p>

@@ -1,4 +1,8 @@
 <h2>Fill in the blanks</h2>
+
+<p>
+  Read the below descriptions and write the correct corresponding word/phrase in Spanish in the boxes.
+  </p>
   
 <hr>
 

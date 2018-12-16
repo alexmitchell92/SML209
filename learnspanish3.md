@@ -1,7 +1,4 @@
-<h2>Sentance formation: Fill in the blanks</h2>
-
-<p>Explain what to do in the activity.
-  </p>
+<h2>Fill in the blanks</h2>
   
 <hr>
 

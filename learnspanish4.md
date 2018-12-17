@@ -12,6 +12,10 @@
   </p>
   <div style="clear:both;"> </div>
 
+<p>
+  <a href="index.html" class="btnflt-r">Home</a>
+  </p>
+  <div style="clear:both;"> </div>
 <hr>
 
 

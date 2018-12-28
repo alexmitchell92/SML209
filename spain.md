@@ -2,7 +2,7 @@
 
 <p>
   <i>
-    Spain is one of the most culturally rich and exciting countries in Europe, no wonder it is one of the most popular destinations for European holidaymakers.
+    Spain is one of the most culturally rich and exciting countries in Europe, no wonder it is one of the most popular destinations for European holidaymakers.<br><br><strong>Follow the below set of slides to learn more about Spain!</strong>
   </i>
   </p>
  

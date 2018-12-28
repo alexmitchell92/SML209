@@ -1,7 +1,5 @@
 <h1><center>South America</center></h1>
-<a href="http://hraf.yale.edu/teach-ehraf/native-peoples-of-south-america-a-comparative-ethnography/" title="View Image Soure">
-<img src="http://hraf.yale.edu/wp-content/uploads/2017/07/te-1.8-thumb.jpg" alt="Barcelona, Spain">
-</a>
+<iframe src="https://h5p.org/h5p/embed/396821" width="1090" height="638" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <p>
   <i>

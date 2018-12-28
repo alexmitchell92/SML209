@@ -67,3 +67,8 @@
 <img src="images/Guy rapping in bus.PNG" /> 
 <img src="https://github.com/alexmitchell92/SML209/blob/master/images/Guy%20rapping%20in%20bus.PNG">
 <img src="images/Guy%20rapping%20in%20bus.PNG">
+
+
+<a href="http://hraf.yale.edu/teach-ehraf/native-peoples-of-south-america-a-comparative-ethnography/" title="View Image Soure">
+<img src="http://hraf.yale.edu/wp-content/uploads/2017/07/te-1.8-thumb.jpg" alt="Barcelona, Spain">
+</a>

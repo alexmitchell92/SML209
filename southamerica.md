@@ -2,8 +2,7 @@
 
 <p>
   <i>
-    As I'm sure you're well aware, South America is not a single country. Rather, it is comprised of 12 countries that mainly speak either Spanish or Portuguese (Brazil). Therefore this page will try to address South America as a whole, rather than just a single country like page dedicated to Spain. <br><br><strong>Please follow the below set of presentation slides to learn more about South America!
-    </strong>
+    As I'm sure you're well aware, South America is not a single country. Rather, it is comprised of 12 countries that mainly speak either Spanish or Portuguese (Brazil). Therefore, the below presentation attempts to address South America as a whole, rather than just a single country like the presentation on the Spain page.<br><br><strong>Follow the below set of slides to learn more about South America!</strong>
   </i>
   </p>
 

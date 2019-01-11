@@ -43,3 +43,12 @@
 <h3><a class="h3-link" href="{{ site.github.resources }}">Useful Resources/Learning Materials</a></h3>
 <p>This page is a list of genuine reources that helped me in my own Spanish language journey. I have split these into 4 sections: Websites; Movies/Series; Youtube Channels & Music.
   </p>
+  
+<hr>
+
+<p>
+  <strong>Website author:</strong> Alex Mitchell
+  <br>
+  <strong>Student ID:</strong> 170438050
+  </p>
+  

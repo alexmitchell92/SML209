@@ -1,6 +1,6 @@
 <h2>Test</h2>
 
-<p>Explain what to do in test.
+<p>Please complete the final set of 4 questions, based entirely on what you have learnt in the previous exercises then find out your score! Good luck!
   </p>
   
 <hr>

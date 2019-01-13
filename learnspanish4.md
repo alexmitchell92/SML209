@@ -1,6 +1,6 @@
 <h2>Test</h2>
 
-<p>Please complete the final set of 4 questions, based entirely on what you have learnt in the previous exercises then find out your score! Good luck!
+<p>Please complete the final set of 4 questions, based entirely on what you have learnt in the previous exercises then find out your score, good luck!
   </p>
   
 <hr>

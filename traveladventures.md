@@ -18,4 +18,6 @@ Después de unas 2 horas y media en el autobús, por fin llegamos. Bajamos en el
   If you have enjoyed reading this story, please feel free to watch the below video I made of this exact trip to Colombia in 2016, including footage from Guatapé!</strong></i>
   </p>
 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

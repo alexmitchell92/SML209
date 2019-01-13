@@ -11,5 +11,11 @@ Después de pasar el rato allá, llegó el momento de encontrar mi autobús, el 
 Cada vez que parábamos, iban subiendo personas que vendían agua o comida, hasta que había un rapero con un altavoz portátil enseñándonos su música nueva. Al final de subir las montañas, empezábamos a pasar por muchos túneles dentro de las montañas. Y luego, llegamos a pasar por el campo. Era una maravilla ver como es el campo en Colombia, con todas sus curvas y cuestas, como una serpiente, le hace parecer al campo inglés muy aburrido, tan plano y básico.<br><br>
 Después de unas 2 horas y media en el autobús, por fin llegamos. Bajamos en el comienzo del camino hasta el peñón. Y allí había unos hombres con un par de caballos y nos ofrecieron un viaje montado en caballo. Considerando cuantas escaleras nos esperaban, nos parecía una buena idea. A la mitad 
 </p>
+
 <hr>
 
+<p><i><strong>
+  If you have enjoyed reading this story, please feel free to watch the below video I made of this exact trip to Colombia in 2016, including footage from Guatapé!</i></strong>
+  </p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

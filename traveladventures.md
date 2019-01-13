@@ -20,4 +20,4 @@ Después de unas 2 horas y media en el autobús, por fin llegamos. Bajamos en el
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/rks_VRZfLFg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

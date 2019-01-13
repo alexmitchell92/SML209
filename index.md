@@ -18,9 +18,9 @@
 
 <p>
   <ul>
-    <li>Provide you with genuine and authentic information and content from both Spain and South America.</li>
-    <li>Teach lessons aimed at travellers bound for Spanish speaking countries.</li>
-    <li>More to come...</li>
+    <li>Teach you Spanish that you can use while travelling in Spanish speaking countries</li>
+    <li>Motivate and encourage you to experiment with the language whenever you get the opportunity</li>
+    <li>Provide interesting and factual information about both Spain and South America</li>
   </ul>
 </p>
  
